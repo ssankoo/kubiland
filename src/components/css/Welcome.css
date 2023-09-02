@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400;500;700&family=Baloo+2:wght@500;600;700&family=Climate+Crisis&display=swap');
+@import url('https://fonts.cdnfonts.com/css/kg-red-hands');
+@import url("https://use.typekit.net/ojd6mpx.css");
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/arrow-down-o.css');
+
+
+
+.welcome-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFEFD3;
+}
+
+
+
+.whole {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.welcome-message {
+    margin: 20px 0;
+    text-align: center;
+    color: #5C89CC;
+    font-family: 'KG Red Hands', sans-serif;
+    font-size: 25px;
+
+}
+
+.custom-button {
+    color: #5C89CC;
+    font-size: 40px;
+}

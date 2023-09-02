@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400;500;700&family=Baloo+2:wght@500;600;700&family=Climate+Crisis&display=swap');
+@import url('https://fonts.cdnfonts.com/css/kg-red-hands');
+@import url("https://use.typekit.net/ojd6mpx.css");
+
+.missionContainer {
+    display: block;
+    background-color: #FFEFD3;
+
+}
+
+.missionText1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 1200px;
+    color: #5C89CC;
+}
+
+.missionText1 h1 {
+    font-family: 'Climate Crisis', cursive;
+    font-size: 60px;
+    text-align: right;
+}
+
+.missionText1 p {
+    margin-top: 15px;
+    font-size: 30px;
+    text-align: right;
+    word-spacing: 6px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.missionContainer a {
+    color: #FFEFD3;
+    background-color: #5C89CC;
+}
+
+
+.missionText h2 {
+    font-family: 'Climate Crisis', cursive;
+    font-size: 60px;
+    text-align: left;
+}
+
+
+.missionText2 {
+    color: #5C89CC;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.missionText2 h2 {
+    font-family: 'Climate Crisis', cursive;
+    font-size: 60px;
+    text-align: left;
+}
+
+.missionText2 p {
+    margin-top: 15px;
+    font-size: 30px;
+    text-align: left;
+    word-spacing: 6px;
+    line-height: 40px;
+
+}

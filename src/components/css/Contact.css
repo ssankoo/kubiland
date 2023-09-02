@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400;500;700&family=Baloo+2:wght@500;600;700&family=Climate+Crisis&display=swap');
+@import url('https://fonts.cdnfonts.com/css/kg-red-hands');
+@import url("https://use.typekit.net/ojd6mpx.css");
+
+.contactContainer {
+    padding: 40px;
+    display: block;
+
+    background-color: #FFEFD3;
+}
+
+.contactTextContainer {
+    padding: 50px;
+    border: 6px solid #5C89CC;
+    border-radius: 30px;
+}
+
+.contactTextContainer h1 {
+    font-family: 'Climate Crisis', cursive;
+    font-size: 70px;
+    color: #5C89CC;
+    text-align: center;
+}
+
+.contactTextContainer ul {
+    padding: 20px;
+}
+
+.contactTextContainer li {
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+    font-size: 40px;
+    background-color: #5C89CC;
+    color: #FFEFD3;
+}
+
+.contactTextContainer a {
+    text-decoration: none;
+    color: #FFEFD3;
+}
